@@ -1,0 +1,7 @@
+Good, you opened this
+
+what does theses script do ? 
+ - Faux installateur.vbs is a fake installer, just a msgbox lolz
+ - Main is every script to make this shit run
+ - Musique is to play the music
+ - Petite voix is the tts voice
